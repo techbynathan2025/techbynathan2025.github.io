@@ -21,7 +21,7 @@ li {
     padding:0px 10px 0px 10px;
 }
 header{
-    text-align:center;
+    text-align:centr;
     background-size: 10px;
     padding: 20px 0px 0px 0px 0px;
     background: linear-gradient(90deg, #00f4ff 4%, #00adff 100%);
@@ -30,5 +30,5 @@ h1 {
     font-size:40px;
 }
 p {
-    padding: 0px 10px 0px 10px
+    padding: 0px 10px 0px 10px;
 }
