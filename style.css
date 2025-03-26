@@ -30,4 +30,7 @@ header{
 h1 {
     font-size:40px;
 }
+p {
+    padding: 0px 100px 0px 100px;
+}
 
