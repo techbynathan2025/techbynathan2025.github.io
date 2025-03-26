@@ -28,6 +28,7 @@ header{
     background: linear-gradient(90deg, #00f4ff 4%, #00adff 100%);
 }
 h1 {
+    font-family: cursive;
     font-size:40px;
 }
 p {
