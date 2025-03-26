@@ -12,7 +12,7 @@ h2 {
 body {
     text-align:center;
     background:linear-gradient(90deg, #56ccf2 0%, #2f80ed 100%);
-    padding:10px;
+    padding:50px;
 }
 ul {
     padding:10px;
@@ -31,5 +31,5 @@ h1 {
     font-size:40px;
 }
 p {
-    padding: 10px;
+    padding: 50px;
 }
